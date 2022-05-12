@@ -2,7 +2,7 @@
 pytorch/ tensorflow configuration
 
 # Set mirror source
-清华镜像：`https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host mirrors.aliyun.com`
+[清华镜像](https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host mirrors.aliyun.com)
 豆瓣镜像：`http://pypi.douban.com/simple --trusted-host mirrors.aliyun.com`
 阿里云镜像：`http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com`
 #升级
