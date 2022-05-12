@@ -24,3 +24,6 @@ pytorch/ tensorflow configuration
 
 # install pytorch-cpu
 `pip install pytorch`
+
+# install jupyter notebook
+`pip install jupyter notebook`
